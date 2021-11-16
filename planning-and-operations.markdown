@@ -4,6 +4,8 @@ title: Planning and operations
 permalink: /planning-and-operations/
 ---
 
+# Planning and operations
+
 Planning is a big part of user testing because it sets you up for success. If possible, kick off the process with a team meeting to decide and document the: what, why, how, who, how many, how long, and where of user testing.  
 
 ### WHAT
