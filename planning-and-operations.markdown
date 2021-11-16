@@ -98,9 +98,8 @@ Full example:
 > 
 > HOW LONG: 45 minutes
 > 
-> WHERE: Zoom with participant screen sharing
-
-
-
-
+> WHERE: Zoom with participant screen sharing  
+  
+  
+  
 The final part of the planning process is to do a trial run to test the software or prototype to make sure there are no bugs and so you can get familiar with the testing process.
