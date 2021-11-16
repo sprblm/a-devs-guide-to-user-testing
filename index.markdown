@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# This is a big heading
+
+This is small text
