@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 
+title: A dev’s guide to user testing
 email: adoptable@simplysecure.org
 description: >- # this means to ignore newlines until "baseurl:"
-  A dev’s guide to user testing is a project created by <a href="https://simplysecure.org/">Simply Secure</a>
-  in collaboration with Internews https://internews.org/ and OKThanks https://okthanks.com/ where we
+  A dev’s guide to user testing is a project created by Simply Secure
+  in collaboration with Internews and OKThanks. Where we
   help OSS tool teams better understand user-centred design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: simplysecureorg
-github_username:  simplysecure
+github_username: simplysecure
 
 # Build settings
 theme: minima
