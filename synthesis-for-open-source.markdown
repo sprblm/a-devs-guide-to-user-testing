@@ -38,7 +38,7 @@ Oh no! The team was thinking: “We now have to build an intelligent system to a
 Before the team went too far down this onerous (and perhaps unnecessary) path, I asked them: “What basic-level concern is the user expressing when they speak about a magical automated inventory voice command system?” We thought about this during several more user tests and discussions. 
 As we learned more about our users, we discovered that a huge concern for them was inventory errors and the negative impact on customers. That meant our team focused on the basic issues of accurate stock checking and verification systems, and not ‘offline voice AI’. As a result, everytime we worked on the tool’s inventory admin area, we remembered how important error prevention was and worked to make small, achievable (non-magical) improvements to make our users happy.
 
-## What is synthesis? A summary:
+## Summary:
 
 Through a synthesis process, you can:
 
