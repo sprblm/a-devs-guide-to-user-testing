@@ -84,9 +84,13 @@ It’s important to work synchronously, either together in a room or an online c
 *Tip: In-line text tools like Google Docs and collaborative writing programs don’t offer a good way to move notes freely on a canvas, and therefore we don’t recommend using those for synthesis (though it can be done if you are persistent!).*
 
 Here’s how you might set up your in-person or virtual space:
+
 -> ADD IMAGE
+
 Alt text: an image of virtual sticky notes of various colours next to a plain white blank whiteboard - ready for the synthesis to be added.
+
 -> ADD IMADGE
+
 Alt text: The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.
 
 -> ADD STORY
