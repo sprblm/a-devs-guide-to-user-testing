@@ -28,7 +28,7 @@ Synthesis can be applied similarly to both Open Source Software and non-open sou
 
 Remember, no technology is perfect and can be improved by learning about how users actually use it. Every technology has problems, you’re not alone. Want to know more about why you should be doing user testing? Check out our game [‘User testing can be fun’!](https://github.com/simplysecure/usable-user-testing-can-be-fun)
 
-## What is ‘synthesis’ not?
+### What is ‘synthesis’ not?
 
 There’s an idea that user testing means putting an individual user (or group of users) in charge of your decision making - but it doesn’t! During a test, if a user says, “Oh you should have functionality that does exactly this thing I’ll explain” it doesn’t mean that you are bound to build it. Instead, you just learned that the user is looking for a solution that your tool doesn’t offer or in the way they expect. It’s less about the exact requested specifications and more about analyzing their problem (alongside other users’ problems) to land on an achievable, inclusive solution. Remember, synthesis is an opportunity to hear your users’ voices and experiences, understand their needs, and use that insight to inform the design and development process and ‘back up’ choices.
 
