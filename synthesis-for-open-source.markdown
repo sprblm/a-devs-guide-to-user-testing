@@ -89,7 +89,10 @@ Alt text: an image of virtual sticky notes of various colours next to a plain wh
 
 Alt text: The image on the left is of a pile of blank sticky notes and pens of various colours along with tape. The image on the right is a design-researcher adding a sticky note with writing to a large window. The window serves as the ‘blank whiteboard’ and already has many columns of sticky notes.
 
--> ADD STORY
+>A story from working on user research in OSS:
+>
+>We thought we had set up everything to make our synthesis session quick and easy. We had the sticky notes, the space, the time, and the people. The one thing we overlooked was setting up our people for success. Our group was diverse, not only in terms of background, but also role: developer, designer, product manager, community manager, and CEO. Our conversation was based on instinct and it became contentious, confusing, and frustrating. The team had fiercely-held opinions and their agenda and reasoning wasn’t always clear - we lacked the context and thought process of everyone’s ideas. For the next synthesis session, we decided to establish rules for framing “I like” statements. Participants would need to add context: “From a business perspective, I like X.” Or give more reasoning: “I like X because it gives the user the most freedom.” Or reference the goals: “I think X achieves our goal of making the process simpler.” When we clearly defined how we wanted people to participate in a synthesis discussion it went a lot smoother! 
+
 
 # How to do ‘synthesis’
 
