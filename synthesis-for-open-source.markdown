@@ -189,8 +189,10 @@ You worked hard on the user tests and you want people to use this information. W
 
 ### **Keep it simple!**
 
-- Cut as much information as you possibly can to allow someone to read through your summary in under 3 minutes. You can offer time to go into details for anyone who is interested in learning more.
-- Make it interesting by telling a story for your audience. Make it easy for them to get aligned. What was most inspiring for you? Any ah-ha moments?
+Cut as much information as you possibly can to allow someone to read through your summary in under 3 minutes. You can offer time to go into details for anyone who is interested in learning more.
+
+
+Make it interesting by telling a story for your audience. Make it easy for them to get aligned. What was most inspiring for you? Any ah-ha moments?
 
 ### **Share with the community too**
 
